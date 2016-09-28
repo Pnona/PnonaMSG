@@ -1,0 +1,2 @@
+# PnonaMSG
+Pomocník pro Skype.
